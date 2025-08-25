@@ -1,6 +1,10 @@
 # Mini Blog - Full Stack Application
 
 A complete full-stack blogging system with Express.js backend API and vanilla HTML/CSS/JavaScript frontend.
+![Database Diagram](images/1.png)
+![Database Diagram](images/2.png)
+![Database Diagram](images/3.png)
+![Database Diagram](images/4.png)
 
 ## Project Structure
 
